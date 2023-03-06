@@ -6,7 +6,7 @@
 
 # Pharmaceutics Backoffice
 
-Simple backoffice application for pharma gestions. Developed while I was learning C#, .NET .
+Simple backoffice application for pharma gestions. Developed while I was learning C#, .NET and SQL syntax.
 
 GUI elements are imported from the tutorial that I followed.
 The panels, the searches and the logic are developed by me.
