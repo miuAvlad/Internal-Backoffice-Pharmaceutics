@@ -2,8 +2,7 @@
 
 - Add medicine products to MDF database;
 - Search medicine products via Name, Manufacture or Price;
-- Split information by warehouses (similar to a WMS)
-- 
+- Split information by warehouses (similar to a WMS).
 
 # Pharmaceutics Backoffice
 
