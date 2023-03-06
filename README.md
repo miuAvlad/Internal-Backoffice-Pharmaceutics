@@ -13,4 +13,7 @@ The panels, the searches and the logic are developed by me.
 
 
 
+### Screenshots
+![https://github.com/miuAvlad/Internal-Backoffice-Pharmaceutics/blob/9c42e75acab9dc47416b2b86ce7cc2783543809f/screenshots/ss%20(1).png?raw=true]
+
 
